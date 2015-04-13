@@ -1,0 +1,21 @@
+{
+  "name": "x2json",
+  "version": "0.0.1",
+  "description": "Very lightweight XML to JSON converter",
+  "main": "x2json.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thco/x2json.git"
+  },
+  "keywords": [
+    "xml",
+    "json",
+    "converter"
+  ],
+  "author": "Thco <perso@thco.fr>",
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ]
+}
